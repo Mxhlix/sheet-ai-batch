@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-05",
+  "provider": "gemini",
+  "model": "gemini-flash-latest",
+  "runs": 6,
+  "requests": [
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 503
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 503
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 503
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 503
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 503
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 503
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 200
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 503
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 200
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 503
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 503
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 429
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 429
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 200
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 200
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 429
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 429
+    },
+    {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent",
+      "status": 200
+    }
+  ],
+  "header": [
+    "入力",
+    "カテゴリ",
+    "緊急度",
+    "返信ドラフト"
+  ],
+  "rows": [
+    [
+      "先週買った商品が届いたのですが、電源が入りません。至急対応してほしいです。",
+      "不具合",
+      "高",
+      "この度は商品につきましてご不便をおかけし誠に申し訳ございません。電源が入らないとのこと、至急交換等の対応をさせていただきます。恐れ入りますが、ご注文番号とお手元の製品状況の詳細をお知らせいただけますでしょうか。速やかにご案内いたします。"
+    ],
+    [
+      "注文をキャンセルして返金してもらうことはできますか？",
+      "返品・キャンセル",
+      "中",
+      "お問い合わせいただきありがとうございます。ご注文のキャンセルおよびご返金について承知いたしました。状況を確認の上ご案内いたしますので、誠に恐れ入りますが「ご注文番号」をお知らせいただけますでしょうか。何卒よろしくお願い申し上げます。"
+    ],
+    [
+      "アプリの使い方がわからないので教えてください。",
+      "使い方",
+      "低",
+      "お問い合わせいただきありがとうございます。アプリのご利用でご不便をおかけし申し訳ございません。詳細な操作手順をご案内いたしますので、ご不明な機能や行いたい操作について具体的にお知らせいただけますでしょうか。何卒よろしくお願いいたします。"
+    ],
+    [
+      "今月の請求金額がいつもより高い気がします。内訳を知りたいです。",
+      "請求",
+      "中",
+      "お問い合わせいただきありがとうございます。今月のご請求についてご心配をおかけしております。請求内訳はマイページの「ご利用明細」よりご確認いただけます。ご不明点が解消されない場合は詳細をお調べしますので、お気軽にご返信ください。"
+    ],
+    [
+      "いつも利用しています。とても満足しています。ありがとう。",
+      "その他",
+      "低",
+      "いつも弊社のサービスをご利用いただき誠にありがとうございます。温かいお言葉を頂戴し大変励みになります。今後もお客様にご満足いただけるようスタッフ一同サービスの向上に努めてまいります。引き続きご愛顧のほどよろしくお願い申し上げます。"
+    ]
+  ]
+}
